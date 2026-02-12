@@ -1,0 +1,5 @@
+{
+  "name": "Interview Scheduler Pro",
+  "description": "A sophisticated non-face-to-face interview scheduling application that allows candidates to select time slots synchronized with a management system.",
+  "requestFramePermissions": []
+}
